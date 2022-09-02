@@ -1,0 +1,1 @@
+# sz_senzingapi-setup-sqlite
